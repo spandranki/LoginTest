@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="145800" started-at="2020-11-16T21:07:43 EST" finished-at="2020-11-16T21:10:09 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="145800" started-at="2020-11-16T21:07:43 EST" finished-at="2020-11-16T21:10:09 EST">
+      <class name="testCombyneScripts.LoginScripts">
+        <test-method status="PASS" signature="test1()[pri:0, instance:testCombyneScripts.LoginScripts@3712b94]" name="test1" duration-ms="13819" started-at="2020-11-16T21:07:43 EST" finished-at="2020-11-16T21:07:57 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:1, instance:testCombyneScripts.LoginScripts@3712b94]" name="test2" duration-ms="12540" started-at="2020-11-16T21:07:57 EST" finished-at="2020-11-16T21:08:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test4()[pri:2, instance:testCombyneScripts.LoginScripts@3712b94]" name="test4" duration-ms="12964" started-at="2020-11-16T21:08:09 EST" finished-at="2020-11-16T21:08:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:3, instance:testCombyneScripts.LoginScripts@3712b94]" name="test5" duration-ms="12075" started-at="2020-11-16T21:08:22 EST" finished-at="2020-11-16T21:08:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:4, instance:testCombyneScripts.LoginScripts@3712b94]" name="test6" duration-ms="12859" started-at="2020-11-16T21:08:35 EST" finished-at="2020-11-16T21:08:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="test8()[pri:5, instance:testCombyneScripts.LoginScripts@3712b94]" name="test8" duration-ms="20609" started-at="2020-11-16T21:08:47 EST" finished-at="2020-11-16T21:09:08 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method status="PASS" signature="test9()[pri:6, instance:testCombyneScripts.LoginScripts@3712b94]" name="test9" duration-ms="12353" started-at="2020-11-16T21:09:08 EST" finished-at="2020-11-16T21:09:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method status="PASS" signature="test10()[pri:7, instance:testCombyneScripts.LoginScripts@3712b94]" name="test10" duration-ms="10686" started-at="2020-11-16T21:09:20 EST" finished-at="2020-11-16T21:09:31 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method status="PASS" signature="test11()[pri:8, instance:testCombyneScripts.LoginScripts@3712b94]" name="test11" duration-ms="12563" started-at="2020-11-16T21:09:31 EST" finished-at="2020-11-16T21:09:44 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method status="PASS" signature="test12()[pri:9, instance:testCombyneScripts.LoginScripts@3712b94]" name="test12" duration-ms="12647" started-at="2020-11-16T21:09:44 EST" finished-at="2020-11-16T21:09:56 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method status="PASS" signature="test16()[pri:10, instance:testCombyneScripts.LoginScripts@3712b94]" name="test16" duration-ms="12576" started-at="2020-11-16T21:09:56 EST" finished-at="2020-11-16T21:10:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test16 -->
+      </class> <!-- testCombyneScripts.LoginScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
